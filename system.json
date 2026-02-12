@@ -1,0 +1,38 @@
+{
+  "id": "fantasydelves",
+  "title": "Fantasy Delves Official",
+  "description": "Official Fantasy Delves system for Foundry VTT.",
+  "version": "0.0.1",
+  "authors": [
+    { "name": "Joshua Bassler" }
+  ],
+
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+
+  "esmodules": [
+    "module/fantasydelves.mjs"
+  ],
+  "styles": [],
+
+  "packs": [],
+
+  "documentTypes": {
+    "Actor": {
+      "pc": {},
+      "npc": {},
+      "monster": {}
+    },
+    "Item": {
+      "weapon": {},
+      "armor": {},
+      "ability": {},
+      "spell": {},
+      "feature": {},
+      "gear": {}
+    }
+  },
+
+  "manifest": "https://github.com/Jitur99/FantasyDelves/releases/latest/download/system.json",
+  "download": "https://github.com/Jitur99/FantasyDelves/releases/latest/download/fantasydelves.zip"
+}
