@@ -14,8 +14,7 @@
     "module/fantasydelves.mjs"
   ],
   "styles": [],
-  "packs": []
-  },
+  "packs": [],
   "manifest": "https://github.com/Jitur99/FantasyDelves/releases/latest/download/system.json",
   "download": "https://github.com/Jitur99/FantasyDelves/releases/latest/download/fantasydelves.zip"
 }
