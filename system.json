@@ -14,10 +14,7 @@
     "module/fantasydelves.mjs"
   ],
   "styles": [],
-  "packs": [],
-  "documentTypes": {
-    "Actor": ["pc", "npc", "monster"],
-    "Item": ["weapon", "armor", "ability", "spell", "feature", "gear"]
+  "packs": []
   },
   "manifest": "https://github.com/Jitur99/FantasyDelves/releases/latest/download/system.json",
   "download": "https://github.com/Jitur99/FantasyDelves/releases/latest/download/fantasydelves.zip"
